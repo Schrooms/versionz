@@ -1,5 +1,5 @@
 # Versionz
-Short description and motivation.
+git tag based version helper.
 
 ## Usage
 How to use my plugin.
